@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="user-profile-extension-webapp:war">
+    <output-path>$PROJECT_DIR$/webapp/target</output-path>
+    <root id="archive" name="user-profile-extension.war">
+      <element id="artifact" artifact-name="user-profile-extension-webapp:war exploded" />
+    </root>
+  </artifact>
+</component>
